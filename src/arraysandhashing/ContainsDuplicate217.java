@@ -2,7 +2,6 @@ package src.arraysandhashing;
 
 import java.util.*;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 
 /**
@@ -10,7 +9,7 @@ import java.util.stream.IntStream;
  *  Link: https://leetcode.com/problems/contains-duplicate/
  */
 
-public class ContainsDuplicateProblem {
+public class ContainsDuplicate217 {
     public boolean solveWithHashMap(int[] nums) {
         /**
          * Runtime: 15ms, beats 43,7%

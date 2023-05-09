@@ -1,7 +1,5 @@
 package src.main.java;
-import src.arraysandhashing.ContainsDuplicateProblem;
 import src.arraysandhashing.TwoSum1;
-import src.arraysandhashing.ValidAnagram242;
 
 public class Main {
 
